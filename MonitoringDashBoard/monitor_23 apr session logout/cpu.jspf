@@ -1,0 +1,35 @@
+<h4 class="blue_color" align="center">CPU INFORMATION</h4>
+<table id="cpu_list" class="table table-striped">
+<tr>
+<td > Timestamp </td>
+<td > Server </td>
+<td align="center"> No. of Processor </td>
+<td align="center"> Model Name </td>
+<td > Cache Size </td>
+<td > CPU Utilization </td>
+<td > CPU/IO Utilization Ratio </td>
+</tr>
+<tr>
+<td>
+23 Apr 2014 , 15:00:01
+</td>
+<td>
+httpd
+</td>
+<td align="center">
+2
+</td>
+<td align="center">
+ Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
+</td>
+<td>
+ 6144 KB
+</td>
+<td id="CPU_httpd">
+4 %
+</td>
+<td>
+1.45
+</td>
+</tr>
+</table>

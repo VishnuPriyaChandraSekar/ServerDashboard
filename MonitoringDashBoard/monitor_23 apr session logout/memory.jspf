@@ -1,0 +1,43 @@
+<h4 class="blue_color" align="center">MEMORY INFORMATION</h4>
+<table class="table table-striped" id="memory-info-table">
+<tr>
+<td > Timestamp </td>
+<td > Server </td>
+<td > Total Memory </td>
+<td > Free Memory </td>
+<td > Used Memory</td>
+<td > Cache Used </td>
+<td > Buffer Used </td>
+<td > Swap Memory</td>
+<td > Server Logs Size </td>
+</tr>
+<tr>
+<td>
+23 Apr 2014 , 15:00:01
+</td>
+<td>
+httpd
+</td>
+<td id="total">
+3415 MB
+</td>
+<td id="free"> 
+368 MB
+</td>
+<td id="used_mem"> 
+3047 MB
+</td>
+<td >
+539.75 MB
+</td>
+<td >
+255 MB
+</td>
+<td id=swap>
+0
+</td>
+<td >
+9.0M
+</td>
+</tr>
+</table>

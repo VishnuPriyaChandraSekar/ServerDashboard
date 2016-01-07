@@ -1,0 +1,13 @@
+<h4 class="blue_color" align="center">DB SERVER</h4>
+<table class="table table-striped">
+<tr> <td>
+Oracle
+</td><td>
+<img src=Images/Green_tick.png alt=Server started title=Started width=15px>
+</td> </tr>
+<tr> <td>
+DB2
+</td><td>
+<img src=Images/Green_tick.png alt=Server started title=Started width=15px>
+</td> </tr>
+</table>

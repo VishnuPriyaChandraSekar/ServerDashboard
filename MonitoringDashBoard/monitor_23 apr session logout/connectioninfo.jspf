@@ -1,0 +1,55 @@
+<h4 class="blue_color" align="center">WEB SERVER CONNECTION INFORMATION</h4>
+<table class="table table-striped">
+<tr>
+<td > Timestamp </td>
+<td > Server </td>
+<td > Status </td>
+<td > Up since </td>
+<td > Connection time/sec </td>
+<td > Transfer time/sec </td>
+<td > Redirect time/sec </td>
+<td > Active threads </td>
+<td > Home Page Status </td>
+<td > Memory Usage </td>
+<td > No.of hits </td>
+<td > No.of 404 errors </td>
+</tr>
+<tr>
+<td>
+23 Apr 2014 , 15:00:01
+</td>
+<td>
+httpd
+</td>
+<td >
+<img src=Images/Green_tick.png alt="Server started" title=Started width=15px id="running" value=1 >
+</td>
+<td>
+Apr 21,2014 18:35:25
+</td>
+<td>
+0.002
+</td>
+<td>
+0.031
+</td>
+<td>
+0.000
+</td>
+<td>
+27
+</td>
+<td>
+<img src=Images/No_tick.png alt=" URL not accessible " title="URL not accessible " width=15px> 
+</td>
+<td>
+70 MB
+</td>
+<td>
+6
+</td>
+<td>
+0
+</td>
+</tr>
+</table>

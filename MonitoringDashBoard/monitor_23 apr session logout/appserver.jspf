@@ -1,0 +1,8 @@
+<h4 class="blue_color" align="center">APP SERVER</h4>
+<table class="table table-striped">
+<tr> <td><a href="#" title="Click here for more information " id="server_app_server1">
+server1
+</a></td><td>
+<img src=Images/Green_tick.png alt=Server started title=Started width=15px>
+</td> </tr>
+</table>

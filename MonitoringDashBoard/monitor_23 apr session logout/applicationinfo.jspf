@@ -1,0 +1,50 @@
+<h4 class="blue_color" align="center">APPLICATION SERVER INFORMATION</h4>
+<table class="table table-striped">
+<tr>
+<td > Timestamp </td>
+<td > Server </td>
+<td > Status </td>
+<td > Up since </td>
+<td > Lookup Time </td>
+<td > Connection time/sec </td>
+<td > Transfer time/sec </td>
+<td > Redirect time/sec </td>
+<td > Active threads </td>
+<td > Memory Usage </td>
+<td > Server logs size</td>
+</tr>
+<td>
+23 Apr 2014 , 15:00:01
+</td>
+<td>
+server1
+</td>
+<td>
+<img src=Images/Green_tick.png alt=Server started title=Started width=15px>
+</td>
+<td>
+Apr 16,2014 13:03:27
+</td>
+<td>
+0.005
+</td>
+<td>
+0.005
+</td>
+<td>
+0.005
+</td>
+<td>
+0.000
+</td>
+<td>
+	75
+</td>
+<td>
+319 MB
+</td>
+<td>
+48M
+</td>
+</tr>
+</table>
